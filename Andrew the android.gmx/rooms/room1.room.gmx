@@ -241,11 +241,16 @@
     <instance objName="obj_copternone" x="368" y="64" name="inst_3FCBDD07" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_copternone" x="512" y="112" name="inst_8DAD5B20" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_copternone" x="128" y="96" name="inst_79A83D00" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_copternone" x="368" y="224" name="inst_EA671335" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_copternone" x="160" y="224" name="inst_54342E2C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_copternone" x="304" y="160" name="inst_55EB6CDD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_copternone" x="112" y="176" name="inst_0519E9FC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_controller" x="96" y="32" name="inst_C5951C7B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternone" x="327" y="233" name="inst_69AF0C26" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternone" x="182" y="236" name="inst_7BE95BF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternone" x="476" y="237" name="inst_4AE65EA8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternone" x="568" y="234" name="inst_02A9733F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_marker_block_excl_copternone" x="576" y="192" name="inst_ED047DAB" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_marker_block_excl_copternone" x="592" y="192" name="inst_9EAE5FD6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_marker_block_excl_copternone" x="608" y="192" name="inst_B3991268" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tileset_gimmicks_damaged" x="48" y="224" w="16" h="16" xo="0" yo="32" id="10000724" name="tile_740C8C1D" depth="100000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

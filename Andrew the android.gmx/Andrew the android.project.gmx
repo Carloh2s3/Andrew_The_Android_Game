@@ -48,6 +48,9 @@
         <sprite>sprites\spr_AndrewR_jump_aim_up</sprite>
         <sprite>sprites\spr_AndrewR_fall</sprite>
         <sprite>sprites\spr_AndrewR_fall_aim_up</sprite>
+        <sprite>sprites\spr_AndrewR_Jet</sprite>
+        <sprite>sprites\spr_AndrewR_SuperJet</sprite>
+        <sprite>sprites\spr_AndrewR_BeamSword</sprite>
       </sprites>
       <sprites name="L">
         <sprite>sprites\spr_AndrewL_stand</sprite>
@@ -145,8 +148,9 @@
       <sprite>sprites\spr_effect_shock</sprite>
       <sprite>sprites\spr_effect_footsteps</sprite>
       <sprite>sprites\spr_smallsplode</sprite>
+      <sprite>sprites\spr_smallsplode1</sprite>
       <sprite>sprites\spr_spletsch_bullet</sprite>
-      <sprite>sprites\spr_touchsplode</sprite>
+      <sprite>sprites\spr_touchsplode1</sprite>
       <sprite>sprites\spr_nanosplode</sprite>
       <sprite>sprites\spr_debris</sprite>
     </sprites>
