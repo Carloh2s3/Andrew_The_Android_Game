@@ -87,6 +87,7 @@
       <sprite>sprites\spr_spikertick_R</sprite>
       <sprite>sprites\spr_spikertick_L</sprite>
       <sprite>sprites\spr_spikertick_standstill</sprite>
+      <sprite>sprites\spr_grenturret</sprite>
     </sprites>
     <sprites name="obstacles">
       <sprite>sprites\spr_thornsmid_up</sprite>
