@@ -239,6 +239,7 @@
         <object>objects\obj_AndrewR_stand</object>
         <object>objects\obj_AndrewR_walk</object>
         <object>objects\obj_AndrewR_shoot_stand</object>
+        <object>objects\obj_AndrewR_LC_stand</object>
         <object>objects\obj_AndrewR_jump</object>
         <object>objects\obj_AndrewR_fall</object>
       </objects>
@@ -298,6 +299,7 @@
       <object>objects\obj_effect_greensmoke</object>
       <object>objects\obj_effect_hit</object>
       <object>objects\obj_effect_shock</object>
+      <object>objects\obj_LCFade</object>
       <object>objects\obj_fade_out_in</object>
       <objects name="explosions">
         <object>objects\obj_smallsplode</object>
