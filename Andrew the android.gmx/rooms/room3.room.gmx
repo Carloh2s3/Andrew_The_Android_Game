@@ -239,11 +239,11 @@
     <instance objName="obj_block" x="208" y="48" name="inst_7743D094" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_waypoint_1" x="208" y="176" name="inst_FF69784B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_teleporter_1" x="64" y="32" name="inst_994B675F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_copternone" x="64" y="96" name="inst_4D5F3D0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_copternone" x="96" y="112" name="inst_6DCC590B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternoneV" x="64" y="96" name="inst_4D5F3D0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternoneV" x="96" y="112" name="inst_6DCC590B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_controller" x="144" y="16" name="inst_DEC4210C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_copternone" x="106" y="91" name="inst_6F4E1153" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_copternone" x="225" y="41" name="inst_E116E391" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternoneV" x="106" y="91" name="inst_6F4E1153" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternoneV" x="225" y="41" name="inst_E116E391" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tileset_gimmicks_damaged" x="96" y="128" w="16" h="16" xo="0" yo="32" id="10000911" name="tile_E6084902" depth="10000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>

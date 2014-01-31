@@ -1262,7 +1262,7 @@
         </arguments>
       </action>
     </event>
-    <event eventtype="4" ename="obj_copternone">
+    <event eventtype="4" ename="obj_copternoneV">
       <action>
         <libid>1</libid>
         <id>113</id>

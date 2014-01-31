@@ -373,9 +373,9 @@
     <instance objName="obj_spikertick" x="160" y="224" name="inst_3B832CF2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_marker_block" x="176" y="240" name="inst_235BAB2A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_marker_block" x="96" y="240" name="inst_1E7D9427" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_copternone" x="272" y="400" name="inst_8EC04809" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_copternone" x="64" y="384" name="inst_96F43EF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_copternone" x="112" y="432" name="inst_4AFA552B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternoneV" x="272" y="400" name="inst_8EC04809" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternoneV" x="64" y="384" name="inst_96F43EF9" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternoneV" x="112" y="432" name="inst_4AFA552B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="208" y="320" name="inst_45146850" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="208" y="336" name="inst_3079A659" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_up_booster_low" x="192" y="368" name="inst_9486F453" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

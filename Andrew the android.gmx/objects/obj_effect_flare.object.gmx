@@ -360,7 +360,7 @@
         <isnot>0</isnot>
       </action>
     </event>
-    <event eventtype="4" ename="obj_copternone">
+    <event eventtype="4" ename="obj_copternoneV">
       <action>
         <libid>1</libid>
         <id>612</id>

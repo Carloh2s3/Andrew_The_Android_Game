@@ -160,7 +160,7 @@
     <instance objName="obj_redcellblock_bomb_1" x="112" y="160" name="inst_BCFC61C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_redcellblock_block" x="96" y="160" name="inst_F86E2B69" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_buttonR_bomb_1" x="80" y="80" name="inst_71F36BAA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_copternone" x="64" y="96" name="inst_F7EB8CCF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_copternoneV" x="64" y="96" name="inst_F7EB8CCF" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_copter_bomb" x="48" y="48" name="inst_42514B6C" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="128" y="192" name="inst_4189454F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="144" y="192" name="inst_3FD080F6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>

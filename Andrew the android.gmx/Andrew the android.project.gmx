@@ -275,7 +275,8 @@
     </objects>
     <objects name="enemies">
       <objects name="copternone">
-        <object>objects\obj_copternone</object>
+        <object>objects\obj_copternoneV</object>
+        <object>objects\obj_coptrenoneH</object>
       </objects>
       <objects name="copterbomb">
         <object>objects\obj_copter_bomb</object>

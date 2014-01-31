@@ -217,7 +217,7 @@
         <arguments>
           <argument>
             <kind>10</kind>
-            <object>obj_lightningCannonR</object>
+            <object>obj_bulletR</object>
           </argument>
           <argument>
             <kind>0</kind>
