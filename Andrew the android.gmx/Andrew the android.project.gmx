@@ -204,6 +204,7 @@
     <background>background\bg_facility</background>
     <background>background\tileset_gimmicks_damaged</background>
     <background>background\tileset_ngrid_base</background>
+    <background>background\tileset_facility</background>
     <background>background\tileset_platform1</background>
     <background>background\tileset_nature</background>
     <background>background\bg_mainmenu</background>
@@ -211,6 +212,7 @@
     <background>background\bg_menu_select_difficulty</background>
     <background>background\bg_nature_sky</background>
     <background>background\bg_clouds_white</background>
+    <background>background\tileset_gold</background>
   </backgrounds>
   <paths name="paths"/>
   <fonts name="fonts">
