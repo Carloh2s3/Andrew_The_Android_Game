@@ -13,6 +13,7 @@
   <code></code>
   <enableViews>-1</enableViews>
   <clearViewBackground>-1</clearViewBackground>
+  <clearDisplayBuffer>-1</clearDisplayBuffer>
   <makerSettings>
     <isSet>0</isSet>
     <w>0</w>
@@ -243,7 +244,7 @@
     <instance objName="obj_redcellblock_block" x="256" y="208" name="inst_89FA548E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_redcellblock_block" x="256" y="224" name="inst_6F3E17D3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_redcellblock_block" x="256" y="240" name="inst_43D620C1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="obj_door_next_up" x="304" y="240" name="inst_98C69DAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_door_next_up" x="304" y="208" name="inst_98C69DAC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="48" y="176" name="inst_BED2E7D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="48" y="160" name="inst_F33D967D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_block" x="112" y="160" name="inst_C0ABFDD5" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
@@ -264,6 +265,8 @@
     <instance objName="obj_spikertick" x="128" y="64" name="inst_0EA34BC6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_marker_block" x="64" y="80" name="inst_974E5C39" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_AndrewR_stand" x="48" y="80" name="inst_8FC8D7DC" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_choose_wisely" x="192" y="16" name="inst_A9B92208" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="obj_choose_wisely" x="272" y="80" name="inst_E9A96B10" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles>
     <tile bgName="tileset_gold" x="176" y="80" w="16" h="16" xo="48" yo="16" id="10001610" name="inst_FF48DB32" depth="-1000000" locked="0" colour="4294967295" scaleX="1" scaleY="1"/>
